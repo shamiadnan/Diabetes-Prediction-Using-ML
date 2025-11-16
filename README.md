@@ -35,21 +35,9 @@ Logistic Regression performed the best on the test dataset with stable accuracy,
 
 -------------------------------------------------------
 
-## Repository Structure
-
-Diabetes-Prediction-Using-ML/
-│── Diabetes Prediction.ipynb
-│── diabetes.csv
-│── diabetes_model.sav
-│── scaler.sav
-│── requirements.txt
-│── README.md
-
--------------------------------------------------------
-
 ## How to Use the Saved Model
 
-```python
+python
 import pickle
 import numpy as np
 
@@ -69,6 +57,18 @@ else:
 
 -------------------------------------------------------
 
+## Repository Structure
+
+Diabetes-Prediction-Using-ML/
+│── Diabetes Prediction.ipynb
+│── diabetes.csv
+│── diabetes_model.sav
+│── scaler.sav
+│── requirements.txt
+│── README.md
+
+-------------------------------------------------------
+
 ## Tech Stack
 - Python  
 - NumPy  
@@ -78,8 +78,4 @@ else:
 -------------------------------------------------------
 
 ##  Author  
-**Adnan Shami**  
-Final Year CSE Student  
-AI/ML & Data Science Enthusiast  
-
--------------------------------------------------------
+Adnan Shami 
