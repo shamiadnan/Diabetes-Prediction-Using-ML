@@ -70,13 +70,16 @@ else:
 -------------------------------------------------------
 
 ## Tech Stack
-
-Python
-NumPy
-Pandas
-Scikit-learn
+- Python  
+- NumPy  
+- Pandas  
+- Scikit-learn  
 
 -------------------------------------------------------
 
-## Author
-Adnan Shami
+##  Author  
+**Adnan Shami**  
+Final Year CSE Student  
+AI/ML & Data Science Enthusiast  
+
+-------------------------------------------------------
