@@ -11,7 +11,7 @@ This project includes:
 - Data loading and preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Feature scaling using StandardScaler  
-- Training multiple ML models (Logistic Regression, Random Forest, SVM)  
+- Training multiple ML models (SVM, Logistic Regression, Random Forest)  
 - Model evaluation and accuracy comparison  
 - Choosing the best model (Logistic Regression)  
 - Saving the final model and scaler using pickle  
@@ -27,9 +27,9 @@ File: `diabetes.csv`
 
 ## Machine Learning Models Used
 
+- Support Vector Machine (SVM)
 - Logistic Regression (final chosen model)  
 - Random Forest Classifier  
-- Support Vector Machine (SVM)
 
 Logistic Regression performed the best on the test dataset with stable accuracy, so it was selected as the final model.
 
@@ -66,3 +66,12 @@ if prediction[0] == 1:
     print("Diabetic")
 else:
     print("Not Diabetic")
+
+Tech Stack
+Python
+NumPy
+Pandas
+Scikit-learn
+
+Author
+Adnan Shami
