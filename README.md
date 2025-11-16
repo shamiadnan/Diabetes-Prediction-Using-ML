@@ -67,11 +67,13 @@ if prediction[0] == 1:
 else:
     print("Not Diabetic")
 
-Tech Stack
+
+## Tech Stack
+
 Python
 NumPy
 Pandas
 Scikit-learn
 
-Author
+## Author
 Adnan Shami
